@@ -1,0 +1,54 @@
+﻿.TcpCheckBox
+{
+    padding-left: 22px !important;
+    background-image: url('<%=WebResource("Tcp.Controls.Images.TcpCheckBox.CheckBox_Sprites.gif")%>');
+    background-repeat: no-repeat;
+    cursor: default;
+    line-height: 20px !important;
+    display:inline-block !important;
+}
+
+.Indeterminate_Enabled
+{
+    background-position: -17px -116px;
+}
+
+.Indeterminate_Disabled
+{
+    background-position: -17px -17px;
+}
+
+.Indeterminate_Hover
+{
+    background-position: -17px -215px;
+}
+
+.Checked_Enabled
+{
+    background-position: -17px -149px;
+}
+
+.Checked_Disabled
+{
+    background-position: -17px -50px;
+}
+
+.Checked_Hover
+{
+    background-position: -17px -248px;
+}
+
+.Unchecked_Enabled
+{
+    background-position: -17px -182px;
+}
+
+.Unchecked_Disabled
+{
+    background-position: -17px -83px;
+}
+
+.Unchecked_Hover
+{
+    background-position: -17px -281px;
+}
