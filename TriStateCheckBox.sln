@@ -1,11 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tcp.Controls", "Tcp.Controls\Tcp.Controls.csproj", "{277E88F5-D9C5-45C7-8258-FF40BB7233CC}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TriStateCheckBox", "TriStateCheckBox\", "{1DF87CF3-269E-49D7-97DC-6B158BDA3746}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFramework = "3.5"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		ProjectReferences = "{277E88F5-D9C5-45C7-8258-FF40BB7233CC}|Tcp.Controls.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/TriStateCheckBox"
 		Debug.AspNetCompiler.PhysicalPath = "TriStateCheckBox\"
